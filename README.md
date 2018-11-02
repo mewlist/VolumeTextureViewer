@@ -5,4 +5,4 @@ Viewer for Unity Texture3D
 
 1. Open Folder by Unity
 2. Open VolumeTextureViewer Scene
-3. In Hierarchy, select Texture3D in Volume Material of Cube Object.
+3. Select Cube Object in Hierarchy, then select Texture3D in Volume Material.
